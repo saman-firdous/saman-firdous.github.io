@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.bg{
+    width: 100%;
+    height: 100vh;
+    background-image:  linear-gradient(rgba(0, 0, 0, 0.075),rgba(0, 0, 0, 0.226),rgba(0, 0, 0, 0.671)),url("../image/NET.jpg");
+    display: flex;
+    align-items: center;
+    padding: 30px;
+    background-size: cover;
+    
+
+
+}
+.content h6{
+    font-style: italic;
+}
+
+main.con{
+    height: 80vh;
+    width: 100%;
+}
+
+.main-container-fluid{
+    height: 80hv;
+    background-color: rgb(32, 31, 31);
+  }
+
+   /* span img{
+    border-radius: 50%;
+    margin-bottom:40px;
+    text-align: center;
+  } */
+  h4{
+    font-style: italic;
+  }
+
+  p{
+    font-size: smaller;
+  }
+  /* .btn{
+    height: 20px;
+    width: 20px;
+  } */
+  .button{
+    padding:20px;
+    width:150px;
+    border: none;
+    background-color:#e0a72cee !important;
+    margin-left: 30px;
+  }
+  .main-container h2{
+    font-style: italic;
+  }
+
+  .main-container h5{
+    letter-spacing: 3px;
+  }
+   .main-container p{
+    letter-spacing: 1px;
+  }
+   .main-container i{
+    height: 5%;
+    width: 10%;
+    color: rgb(196, 131, 46);
+  }
+  
+  .hov{
+    filter: brightness(0.5);
+  }
+
+  .hov:hover{
+    filter: brightness(0.3);
+    color: aqua;
+  }
+  .a button{
+    width: 20%;
+    background-color: yellow;
+  }
+
+  /* button{
+    width: 50%;
+  } */
+  h6 img{
+    border-radius: 50%;
+  }
+  .new_btn{
+    background-color:#ecb640ee !important;
+    border-radius: 0%;
+    margin-left: 10px;
+  
+  }
+  .new_btnn{
+    border-radius: 0%;
+  }
+  .new_btnn:hover{
+    background-color:#ecb640ee ;
+  }
+  .main-container h2{
+    color: rgb(196, 131, 46);
+  }
+  .main-container-fluid h5{
+    letter-spacing: 4px;
+  }
+  .main-container-card h2{
+    color: rgb(196, 131, 46);
+  }
+  .main-container a button{
+color: black;
+    width: 20%;
+    border: none;
+    
+  }
+  .main-container a button:hover{
+    color: rgb(196, 131, 46);
+  }
